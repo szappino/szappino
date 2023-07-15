@@ -17,6 +17,20 @@
 
 <h2 align="center">Hi 👋! My name is Simone and I'm a Full Stack Developer, from Italy</h2>
 
+
+###
+
+<h3 align="center">🔥   My Stats :</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=szappino&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 ###
 
 <h3 align="center">🛠 Language and tools</h3>
